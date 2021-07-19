@@ -1,0 +1,84 @@
+INFO  05:38:39 Get Treatment Packages Service called..
+INFO  05:38:53 Package details is fetched  Successfully
+INFO  09:52:57 Get Treatment Packages Service called..
+ERROR 09:53:02 No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+INFO  10:34:57 Get Treatment Packages Service called..
+ERROR 10:34:57 No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+INFO  11:11:43 Get Treatment Packages Service called..
+INFO  11:11:44 Package details is fetched  Successfully
+INFO  11:20:02 Package Name is fetched  Successfully
+INFO  11:20:49 Package Name is fetched  Successfully
+INFO  11:21:05 Get Specialist Details called..
+INFO  11:21:05 Specialist details is fetched  Successfully
+INFO  11:22:46 Package Name is fetched  Successfully
+INFO  11:39:37 Get Specialist Details called..
+INFO  11:39:38 Specialist details is fetched  Successfully
+INFO  11:46:39 Get Specialist Details called..
+INFO  11:46:40 Specialist details is fetched  Successfully
+INFO  11:51:12 Get Treatment Packages Service called..
+INFO  11:51:13 Package details is fetched  Successfully
+INFO  11:57:03 Get Treatment Packages Service called..
+INFO  11:57:04 Package details is fetched  Successfully
+INFO  12:00:25 Get Treatment Packages Service called..
+INFO  12:00:25 Package details is fetched  Successfully
+INFO  12:00:45 Get Specialist Details called..
+INFO  12:00:45 Specialist details is fetched  Successfully
+INFO  12:00:56 Get Specialist Details called..
+INFO  12:00:56 Specialist details is fetched  Successfully
+INFO  12:01:12 Package Name is fetched  Successfully
+INFO  12:02:21 Get Treatment Packages Service called..
+INFO  12:02:21 Package details is fetched  Successfully
+INFO  12:07:01 Get Treatment Packages Service called..
+INFO  12:07:01 Package details is fetched  Successfully
+INFO  12:07:25 Package Name is fetched  Successfully
+INFO  12:07:48 Get Specialist Details called..
+INFO  12:07:48 Specialist details is fetched  Successfully
+INFO  12:16:40 Get Treatment Packages Service called..
+INFO  12:16:40 Package details is fetched  Successfully
+INFO  12:17:11 Package Name is fetched  Successfully
+INFO  12:17:44 Get Specialist Details called..
+INFO  12:17:44 Specialist details is fetched  Successfully
+INFO  10:22:56 Get Treatment Packages Service called..
+INFO  10:22:56 Package details is fetched  Successfully
+INFO  10:23:52 Package Name is fetched  Successfully
+INFO  10:24:09 Get Specialist Details called..
+INFO  10:24:09 Specialist details is fetched  Successfully
+INFO  01:39:37 Get Treatment Packages Service called..
+INFO  01:39:37 Package details is fetched  Successfully
+INFO  01:39:51 Get Specialist Details called..
+INFO  01:39:51 Specialist details is fetched  Successfully
+INFO  03:21:48 Get Treatment Packages Service called..
+INFO  03:21:48 Package details is fetched  Successfully
+INFO  03:22:45 Package Name is fetched  Successfully
+INFO  03:24:51 Get Specialist Details called..
+INFO  03:24:51 Specialist details is fetched  Successfully
+INFO  06:58:50 Get Treatment Packages Service called..
+INFO  06:58:50 Package details is fetched  Successfully
+INFO  06:59:14 Package Name is fetched  Successfully
+INFO  06:59:35 Get Specialist Details called..
+INFO  06:59:35 Specialist details is fetched  Successfully
+INFO  10:34:49 Get Treatment Packages Service called..
+INFO  10:34:49 Package details is fetched  Successfully
+INFO  10:43:12 Package Name is fetched  Successfully
+INFO  10:44:31 Package Name is fetched  Successfully
+INFO  10:45:30 Package Name is fetched  Successfully
+INFO  10:45:52 Package Name is fetched  Successfully
+INFO  10:47:56 Package Name is fetched  Successfully
+INFO  10:48:27 Package Name is fetched  Successfully
+INFO  10:48:39 Get Specialist Details called..
+INFO  10:48:39 Specialist details is fetched  Successfully
+INFO  10:49:23 Package Name is fetched  Successfully
+INFO  10:51:20 Package Name is fetched  Successfully
+INFO  10:53:14 Package Name is fetched  Successfully
+INFO  10:53:22 Get Treatment Packages Service called..
+INFO  10:53:22 Package details is fetched  Successfully
+INFO  11:00:10 Package Name is fetched  Successfully
+INFO  11:34:25 Get Treatment Packages Service called..
+INFO  11:34:25 Package details is fetched  Successfully
+INFO  11:39:44 Package Name is fetched  Successfully
+INFO  11:41:23 Get Specialist Details called..
+INFO  11:41:23 Specialist details is fetched  Successfully
+INFO  11:58:01 Get Treatment Packages Service called..
+INFO  11:58:02 Package details is fetched  Successfully
+INFO  11:58:04 Get Specialist Details called..
+INFO  11:58:04 Specialist details is fetched  Successfully

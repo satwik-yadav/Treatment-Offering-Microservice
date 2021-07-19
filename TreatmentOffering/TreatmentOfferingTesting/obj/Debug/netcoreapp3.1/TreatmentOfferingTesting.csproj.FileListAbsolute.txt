@@ -1,0 +1,516 @@
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.config
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.deps.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.dev.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csprojAssemblyReference.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfoInputs.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfo.cs
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CoreCompileInputs.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CopyComplete
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Samrutha repos\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.genruntimeconfig.cache
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.config
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.deps.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.dev.json
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csprojAssemblyReference.cache
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfoInputs.cache
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfo.cs
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CoreCompileInputs.cache
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CopyComplete
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Samrutha\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.genruntimeconfig.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.config
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.deps.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.dev.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csprojAssemblyReference.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfoInputs.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfo.cs
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CoreCompileInputs.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CopyComplete
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.genruntimeconfig.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.deps.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.runtimeconfig.dev.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.AssemblyInfo.cs
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.csproj.CopyComplete
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.pdb
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOfferingTesting\obj\Debug\netcoreapp3.1\TreatmentOfferingTesting.genruntimeconfig.cache

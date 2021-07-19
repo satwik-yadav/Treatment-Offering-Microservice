@@ -1,0 +1,200 @@
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csprojAssemblyReference.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.config
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Samrutha repos\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.config
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+C:\Samrutha\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csprojAssemblyReference.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.config
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csprojAssemblyReference.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Samrutha\Stage 3\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\Dell\Downloads\InternationalPatient\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
